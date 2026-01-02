@@ -15,6 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('slug')->unique(); // Para a URL (ex: bser.gg/teams/sk)
+            $table->string('region');
             $table->timestamps();
         });
     }
