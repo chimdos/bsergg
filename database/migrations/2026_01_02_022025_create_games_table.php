@@ -13,6 +13,11 @@ return new class extends Migration
     {
         Schema::create('games', function (Blueprint $table) {
             $table->id();
+            $table->foreignId('brawl_match_id')->constrained()->onDelete('cascade');
+            $table->string('map_name');
+            $table->string('mode');
+            $table->integer('game_order');
+            $table->foreignId('winner_team_id')->nullable()->constrained('teams');
             $table->timestamps();
         });
     }
