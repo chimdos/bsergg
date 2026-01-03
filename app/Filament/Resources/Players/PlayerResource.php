@@ -7,33 +7,37 @@ use App\Filament\Resources\Players\Pages\EditPlayer;
 use App\Filament\Resources\Players\Pages\ListPlayers;
 use App\Models\Player;
 use Filament\Forms;
-use Filament\Schemas\Schema;
 use Filament\Resources\Resource;
 use Filament\Tables;
 use Filament\Tables\Table;
+use Filament\Schemas\Schema;
+use Filament\Forms\Components\Section;
+use Filament\Tables\Actions\EditAction;
+use Filament\Forms\Components\TextInput;
+use Filament\Forms\Components\Select;
 
 class PlayerResource extends Resource
 {
     protected static ?string $model = Player::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-user-group';
+    protected static string | \BackedEnum | null $navigationIcon = 'heroicon-o-user-group';
 
     protected static ?string $recordTitleAttribute = 'name';
 
-    public static function form(Schema $schema): Schema
+   public static function form(Schema $schema): Schema
     {
         return $schema
             ->components([
-                Forms\Components\Section::make('Player Information')
+                Section::make('Player Information')
                     ->schema([
-                        Forms\Components\TextInput::make('name')
+                        TextInput::make('name')
                             ->required()
                             ->label("Player's Name"),
-                        Forms\Components\TextInput::make('tag')
+                        TextInput::make('tag')
                             ->required()
                             ->unique(ignoreRecord: true)
                             ->label('Tag (#0000)'),
-                        Forms\Components\Select::make('team_id')
+                        Select::make('team_id')
                             ->relationship('team', 'name')
                             ->searchable()
                             ->preload()
@@ -61,7 +65,7 @@ class PlayerResource extends Resource
                 // Futuramente podemos filtrar por região do time aqui
             ])
             ->actions([
-                Tables\Actions\EditAction::make(),
+                EditAction::make(),
             ]);
     }
 
