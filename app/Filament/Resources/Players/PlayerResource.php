@@ -5,31 +5,64 @@ namespace App\Filament\Resources\Players;
 use App\Filament\Resources\Players\Pages\CreatePlayer;
 use App\Filament\Resources\Players\Pages\EditPlayer;
 use App\Filament\Resources\Players\Pages\ListPlayers;
-use App\Filament\Resources\Players\Schemas\PlayerForm;
-use App\Filament\Resources\Players\Tables\PlayersTable;
 use App\Models\Player;
-use BackedEnum;
-use Filament\Resources\Resource;
+use Filament\Forms;
 use Filament\Schemas\Schema;
-use Filament\Support\Icons\Heroicon;
+use Filament\Resources\Resource;
+use Filament\Tables;
 use Filament\Tables\Table;
 
 class PlayerResource extends Resource
 {
     protected static ?string $model = Player::class;
 
-    protected static string|BackedEnum|null $navigationIcon = Heroicon::OutlinedRectangleStack;
+    protected static ?string $navigationIcon = 'heroicon-o-user-group';
 
     protected static ?string $recordTitleAttribute = 'name';
 
     public static function form(Schema $schema): Schema
     {
-        return PlayerForm::configure($schema);
+        return $schema
+            ->components([
+                Forms\Components\Section::make('Player Information')
+                    ->schema([
+                        Forms\Components\TextInput::make('name')
+                            ->required()
+                            ->label("Player's Name"),
+                        Forms\Components\TextInput::make('tag')
+                            ->required()
+                            ->unique(ignoreRecord: true)
+                            ->label('Tag (#0000)'),
+                        Forms\Components\Select::make('team_id')
+                            ->relationship('team', 'name')
+                            ->searchable()
+                            ->preload()
+                            ->label('Team')
+                            ->required(),
+                    ])->columns(2)
+            ]);
     }
 
     public static function table(Table $table): Table
     {
-        return PlayersTable::configure($table);
+        return $table
+            ->columns([
+                Tables\Columns\TextColumn::make('name')
+                    ->searchable()
+                    ->sortable(),
+                Tables\Columns\TextColumn::make('tag')
+                    ->copyable(),
+                Tables\Columns\TextColumn::make('team.name')
+                    ->label('Team')
+                    ->badge()
+                    ->color('info'),
+            ])
+            ->filters([
+                // Futuramente podemos filtrar por região do time aqui
+            ])
+            ->actions([
+                Tables\Actions\EditAction::make(),
+            ]);
     }
 
     public static function getRelations(): array
