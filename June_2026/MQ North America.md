@@ -2,93 +2,93 @@
 
 | POSITION | PLAYER | RATING |
 | :---: | :--- | :---: |
-| 1 | VTC\|belal ✗ | 1.44 |
-| 2 | VTC duckie 🦗 | 1.31 |
-| 3 | TE\|𑣲Memxn | 1.29 |
-| 4 | vgtsauce | 1.26 |
-| 5 | 𑣲tacos | 1.22 |
-| 6 | VTC\|ezlivi ✗ | 1.20 |
-| 7 | RLM\|chino | 1.20 |
-| 8 | TRB\|Diegogamer | 1.19 |
-| 9 | TE\|snoiy | 1.18 |
-| 10 | LGCY\|Zeus | 1.17 |
-| 11 | LGCY\|Zoulan | 1.13 |
-| 12 | TE\|どいん | 1.13 |
-| 13 | TRB\|Lxffy🌪️ | 1.10 |
-| 14 | HML\|Ducky🐝 | 1.09 |
-| 15 | TRB\|R B M | 1.08 |
-| 16 | Optical | 1.07 |
-| 17 | LGCY\|Rafikii | 1.06 |
-| 18 | RLM\|𑣲Juni | 1.05 |
-| 19 | ENO\|GN | 1.04 |
-| 20 | HML\|Tyrant | 1.04 |
-| 21 | #882JYYLR8 | 1.03 |
-| 22 | #28GY8CPRC | 1.03 |
-| 23 | Dan🐬 | 1.03 |
-| 24 | RLM\|sans | 1.02 |
-| 25 | RLM\|Nerf💯 | 1.01 |
-| 26 | MTM\|David | 1.01 |
-| 27 | RLM\|winq ˖᯽ ݁˖ | 1.00 |
-| 28 | Sergioo ❦ | 1.00 |
-| 29 | Samuelitoツ | 0.99 |
-| 30 | Lynnxz 🌸 A | 0.99 |
-| 31 | ENO\|Kiritom | 0.98 |
-| 32 | RLM\|Patchy | 0.98 |
-| 33 | HML\|Xemp | 0.98 |
-| 34 | RF\|Rexz | 0.97 |
-| 35 | razuen | 0.97 |
-| 36 | 白衣胜雪谪仙人❄️ | 0.97 |
-| 37 | second❤️lena | 0.96 |
-| 38 | darklordbrd | 0.96 |
-| 39 | sunnyy🍫 | 0.95 |
-| 40 | STMN\|PaiN | 0.95 |
-| 41 | RLM\|bobby | 0.94 |
-| 42 | NRG\|❄️vSxolar❄️ | 0.94 |
-| 43 | JackyLovexGJ | 0.93 |
-| 44 | Nayt | 0.93 |
-| 45 | #8L988RQJC | 0.93 |
-| 46 | eeps | 0.92 |
-| 47 | JuiceBox 🌧️ | 0.92 |
-| 48 | 草莓冰淇淋（＾ω＾） | 0.91 |
-| 49 | STMN\|roledu | 0.91 |
-| 50 | PFZ\|squeezy | 0.91 |
-| 51 | ZL\|Madrid | 0.90 |
-| 52 | KO•Sovereign🏆 | 0.88 |
-| 53 | diegoRwR | 0.88 |
-| 54 | Soldier Boy 🦅 | 0.88 |
-| 55 | WC Reaper | 0.88 |
-| 56 | Zee | 0.88 |
-| 57 | Perry💜Lukie | 0.87 |
-| 58 | QuantumPhysi | 0.87 |
-| 59 | OG | 0.87 |
-| 60 | JEFF THE KILLER | 0.87 |
-| 61 | KayJayOh | 0.87 |
-| 62 | Jack🐑 | 0.86 |
-| 63 | ZL\|CriZtopher | 0.85 |
-| 64 | 小白🪽 | 0.85 |
-| 65 | Adán❦ | 0.85 |
-| 66 | 444 diegofr數 | 0.85 |
-| 67 | TrustMyTank | 0.84 |
-| 68 | Yxkino⚘️ | 0.84 |
-| 69 | 在雪中跳舞 | 0.84 |
-| 70 | INOOBY | 0.81 |
-| 71 | $500 Ounces | 0.79 |
-| 72 | BrriN | 0.79 |
-| 73 | S.O.S. | 0.78 |
-| 74 | रुद्र।Rudra 🦚 | 0.77 |
-| 75 | MT\|Zelax👾 | 0.77 |
-| 76 | MochMan | 0.76 |
-| 77 | hi 24 | 0.76 |
-| 78 | ❄️Pika❄️ | 0.76 |
-| 79 | AXL\|alee ᛪ༙ | 0.75 |
-| 80 | caker jerks😛 | 0.74 |
-| 81 | Joof | 0.72 |
-| 82 | Mar-ce-lo 💯🍐 | 0.71 |
-| 83 | PFZ\|Alyanys | 0.71 |
-| 84 | FEAR\|Dumbsmileツ | 0.70 |
-| 85 | Lukie 🦝 | 0.69 |
-| 86 | ShineSlays YT | 0.67 |
-| 87 | Yoshii | 0.64 |
-| 88 | Torkasaurus 🦕 | 0.57 |
-| 89 | FEAR\|XngelFire | 0.55 |
-| 90 | Toonix ごみ✰ | 0.52 |
+| 1 | VTC\|belal ✗ | 1.28 |
+| 2 | TE\|𑣲Memxn | 1.21 |
+| 3 | VTC duckie 🦗 | 1.19 |
+| 4 | TE\|snoiy | 1.15 |
+| 5 | 𑣲tacos | 1.15 |
+| 6 | TRB\|Diegogamer | 1.12 |
+| 7 | VTC\|ezlivi ✗ | 1.12 |
+| 8 | vgtsauce | 1.12 |
+| 9 | LGCY\|Zeus | 1.11 |
+| 10 | LGCY\|Zoulan | 1.10 |
+| 11 | HML\|Ducky🐝 | 1.09 |
+| 12 | RLM\|chino | 1.09 |
+| 13 | RLM\|𑣲Juni | 1.08 |
+| 14 | LGCY\|Rafikii | 1.07 |
+| 15 | TE\|どいん | 1.07 |
+| 16 | Optical | 1.06 |
+| 17 | HML\|Tyrant | 1.06 |
+| 18 | TRB\|Lxffy🌪️ | 1.04 |
+| 19 | ENO\|GN | 1.03 |
+| 20 | MTM\|David | 1.03 |
+| 21 | HML\|Xemp | 1.03 |
+| 22 | Dan🐬 | 1.03 |
+| 23 | RLM\|Nerf💯 | 1.02 |
+| 24 | ENO\|Kiritom | 1.02 |
+| 25 | RLM\|sans | 1.02 |
+| 26 | JuiceBox 🌧️ | 1.02 |
+| 27 | #882JYYLR8 | 1.02 |
+| 28 | #28GY8CPRC | 1.02 |
+| 29 | NRG\|❄️vSxolar❄️ | 1.02 |
+| 30 | darklordbrd | 1.02 |
+| 31 | RLM\|winq ˖᯽ ݁˖ | 1.01 |
+| 32 | Samuelitoツ | 1.01 |
+| 33 | RF\|Rexz | 1.01 |
+| 34 | Sergioo ❦ | 1.01 |
+| 35 | 白衣胜雪谪仙人❄️ | 1.01 |
+| 36 | TRB\|R B M | 1.00 |
+| 37 | Lynnxz 🌸 A | 1.00 |
+| 38 | Zee | 1.00 |
+| 39 | PFZ\|squeezy | 1.00 |
+| 40 | Jack🐑 | 0.99 |
+| 41 | JackyLovexGJ | 0.99 |
+| 42 | sunnyy🍫 | 0.99 |
+| 43 | RLM\|Patchy | 0.99 |
+| 44 | second❤️lena | 0.99 |
+| 45 | 小白🪽 | 0.99 |
+| 46 | KayJayOh | 0.99 |
+| 47 | Yxkino⚘️ | 0.98 |
+| 48 | razuen | 0.98 |
+| 49 | STMN\|PaiN | 0.97 |
+| 50 | RLM\|bobby | 0.97 |
+| 51 | 草莓冰淇淋（＾ω＾） | 0.96 |
+| 52 | Nayt | 0.96 |
+| 53 | eeps | 0.96 |
+| 54 | ZL\|Madrid | 0.96 |
+| 55 | Adán❦ | 0.96 |
+| 56 | diegoRwR | 0.95 |
+| 57 | रुद्र।Rudra 🦚 | 0.94 |
+| 58 | Perry💜Lukie | 0.94 |
+| 59 | ZL\|CriZtopher | 0.94 |
+| 60 | Soldier Boy 🦅 | 0.94 |
+| 61 | 在雪中跳舞 | 0.94 |
+| 62 | KO•Sovereign🏆 | 0.93 |
+| 63 | QuantumPhysi | 0.93 |
+| 64 | INOOBY | 0.93 |
+| 65 | OG | 0.93 |
+| 66 | JEFF THE KILLER | 0.93 |
+| 67 | WC Reaper | 0.93 |
+| 68 | #8L988RQJC | 0.93 |
+| 69 | 444 diegofr數 | 0.92 |
+| 70 | Joof | 0.91 |
+| 71 | ❄️Pika❄️ | 0.91 |
+| 72 | TrustMyTank | 0.91 |
+| 73 | MochMan | 0.90 |
+| 74 | STMN\|roledu | 0.90 |
+| 75 | S.O.S. | 0.89 |
+| 76 | hi 24 | 0.88 |
+| 77 | caker jerks😛 | 0.88 |
+| 78 | MT\|Zelax👾 | 0.88 |
+| 79 | FEAR\|Dumbsmileツ | 0.88 |
+| 80 | $500 Ounces | 0.88 |
+| 81 | BrriN | 0.88 |
+| 82 | Mar-ce-lo 💯🍐 | 0.87 |
+| 83 | PFZ\|Alyanys | 0.87 |
+| 84 | ShineSlays YT | 0.86 |
+| 85 | AXL\|alee ᛪ༙ | 0.84 |
+| 86 | Lukie 🦝 | 0.83 |
+| 87 | Yoshii | 0.82 |
+| 88 | FEAR\|XngelFire | 0.81 |
+| 89 | Torkasaurus 🦕 | 0.80 |
+| 90 | Toonix ごみ✰ | 0.76 |
