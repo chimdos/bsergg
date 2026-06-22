@@ -2,27 +2,27 @@
 
 | POSITION | PLAYER | RATING |
 | :---: | :--- | :---: |
-| 1 | TTM\|Joker | 1.11 |
-| 2 | FUT\|Guesti | 1.07 |
-| 3 | TTM\|Maury | 1.07 |
-| 4 | BIG\|Arthur🥥 | 1.04 |
-| 5 | FUT\|Nob? | 1.04 |
-| 6 | FUT\|Angelboy | 1.03 |
-| 7 | HMB\|BosS | 1.02 |
-| 8 | NOVO \| MeOw | 1.02 |
-| 9 | MZP\|Decaii | 0.99 |
-| 10 | NOVO \| Filippo | 0.98 |
-| 11 | NAVI\|Enraged | 0.98 |
-| 12 | HMB\|Lukii | 0.97 |
-| 13 | BIG\|Salty🐇 | 0.97 |
-| 14 | BIG\|Melih🥥 | 0.97 |
-| 15 | HMB\|Symantec | 0.96 |
-| 16 | KUMA\|Mine | 0.95 |
-| 17 | KUMA\|Dompe | 0.94 |
-| 18 | NAVI\|Drage | 0.94 |
-| 19 | TTM\|Maru | 0.90 |
-| 20 | MZP\|Ćiro | 0.89 |
-| 21 | NOVO \| Jus | 0.89 |
-| 22 | NAVI\|GeRo | 0.89 |
-| 23 | MZP\|Code:LeNain | 0.83 |
-| 24 | KUMA\|Nes | 0.80 |
+| 1 | Joker | 1.11 |
+| 2 | Guesti | 1.07 |
+| 3 | Maury | 1.07 |
+| 4 | Arthur | 1.04 |
+| 5 | Nob? | 1.04 |
+| 6 | BosS | 1.02 |
+| 7 | Angelboy | 1.02 |
+| 8 | MeOw | 1.02 |
+| 9 | Decaii | 0.99 |
+| 10 | Filippo | 0.98 |
+| 11 | Enraged | 0.98 |
+| 12 | Lukii | 0.97 |
+| 13 | Salty | 0.97 |
+| 14 | Melih | 0.97 |
+| 15 | Mine | 0.95 |
+| 16 | Symantec | 0.94 |
+| 17 | Dompe | 0.94 |
+| 18 | Drage | 0.94 |
+| 19 | Maru | 0.90 |
+| 20 | Ćiro | 0.89 |
+| 21 | Jus | 0.89 |
+| 22 | GeRo | 0.89 |
+| 23 | LeNain | 0.83 |
+| 24 | Nes | 0.80 |
