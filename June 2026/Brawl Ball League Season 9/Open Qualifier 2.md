@@ -1,7 +1,7 @@
 ### Brawl Ball League OQ2
 
 | POSITION | PLAYER | RATING | SETS |
-| :---: | :--- | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | 1 | АртемкаТоп1 | 1.23 | 2 |
 | 2 | Psixo | 1.23 | 1 |
 | 3 | thor_bs | 1.22 | 4 |

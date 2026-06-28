@@ -1,7 +1,7 @@
 ### Brawl Ball League OQ1
 
 | POSITION | PLAYER | RATING | SETS |
-| :---: | :--- | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | 1 | BlxzZe | 1.22 | 7 |
 | 2 | carry09 | 1.21 | 9 |
 | 3 | sroyyy_ | 1.21 | 4 |
