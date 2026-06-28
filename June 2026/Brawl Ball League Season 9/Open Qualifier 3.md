@@ -1,7 +1,7 @@
 ### Brawl Ball League OQ3
 
 | POSITION | PLAYER | RATING | SETS |
-| :---: | :---: | :---: | :---: |
+| :---: | :--- | :---: | :---: |
 | 1 | Unlucky | 1.24 | 5 |
 | 2 | SveNZ | 1.21 | 6 |
 | 3 | Alexis | 1.19 | 12 |
