@@ -1,550 +1,550 @@
 ### Brawl Ball League OQ1
 
-| POSITION | PLAYER | RATING |
-| :---: | :--- | :---: |
-| 1 | BlxzZe | 1.22 |
-| 2 | carry09 | 1.21 |
-| 3 | sroyyy_ | 1.21 |
-| 4 | Qwuizy | 1.20 |
-| 5 | Lxo | 1.19 |
-| 6 | mem9295 | 1.19 |
-| 7 | Natrix | 1.19 |
-| 8 | wadnesss | 1.18 |
-| 9 | Saber | 1.17 |
-| 10 | Unlucky | 1.17 |
-| 11 | Leovrok171 | 1.17 |
-| 12 | Harshan | 1.17 |
-| 13 | DLP | 1.17 |
-| 14 | KalteBs | 1.16 |
-| 15 | leosgameworld | 1.16 |
-| 16 | LINBOX | 1.16 |
-| 17 | Temperament | 1.15 |
-| 18 | Banned \| Marko9ll | 1.14 |
-| 19 | Lifes | 1.14 |
-| 20 | Alex被 | 1.14 |
-| 21 | Lucas | 1.14 |
-| 22 | defENDER | 1.13 |
-| 23 | Louri | 1.13 |
-| 24 | mysterio66 | 1.13 |
-| 25 | Tex | 1.12 |
-| 26 | Desquel | 1.12 |
-| 27 | Movind | 1.12 |
-| 28 | Light | 1.12 |
-| 29 | flamen dialis | 1.12 |
-| 30 | SveNZ | 1.12 |
-| 31 | Timo | 1.12 |
-| 32 | ryzo | 1.12 |
-| 33 | Bot1 | 1.11 |
-| 34 | oicwap | 1.11 |
-| 35 | Decaii | 1.11 |
-| 36 | flash2138 | 1.11 |
-| 37 | La ✨Que✨ | 1.10 |
-| 38 | Luffy!? | 1.10 |
-| 39 | Astralcrisis | 1.10 |
-| 40 | Melih | 1.10 |
-| 41 | flokky | 1.10 |
-| 42 | Agachi | 1.10 |
-| 43 | Cxssmo | 1.10 |
-| 44 | hate09754 | 1.09 |
-| 45 | Joker | 1.09 |
-| 46 | VK\|erc❤️‍🔥 | 1.09 |
-| 47 | Snowy🤍 | 1.09 |
-| 48 | Arka | 1.09 |
-| 49 | Mathiaspoder | 1.09 |
-| 50 | rinor | 1.09 |
-| 51 | Edui🎀❤️ | 1.08 |
-| 52 | xSkYRiiKZz | 1.08 |
-| 53 | kid | 1.08 |
-| 54 | Ace | 1.08 |
-| 55 | iShxdowqu | 1.08 |
-| 56 | Maor | 1.08 |
-| 57 | siwy | 1.08 |
-| 58 | ganda | 1.08 |
-| 59 | chevy | 1.08 |
-| 60 | Sxjic | 1.08 |
-| 61 | howyoufeel? | 1.08 |
-| 62 | Дэн Айсшотов | 1.08 |
-| 63 | Ćiro | 1.08 |
-| 64 | Mine | 1.08 |
-| 65 | Yoshi | 1.08 |
-| 66 | Bogiiiiiii | 1.08 |
-| 67 | Seared | 1.08 |
-| 68 | Mingystin | 1.08 |
-| 69 | Beneeywa | 1.07 |
-| 70 | Gargas | 1.07 |
-| 71 | SanFire | 1.07 |
-| 72 | rema👅 | 1.07 |
-| 73 | erwnn_5 | 1.07 |
-| 74 | nloverax | 1.07 |
-| 75 | sad_loner. | 1.07 |
-| 76 | Arthur | 1.07 |
-| 77 | pontifex1181 | 1.07 |
-| 78 | Tiktok Zetatrix | 1.07 |
-| 79 | Gravity | 1.07 |
-| 80 | Bartforfd | 1.07 |
-| 81 | DanZer | 1.07 |
-| 82 | Biluux | 1.06 |
-| 83 | Di_fiz1k | 1.06 |
-| 84 | Serious. | 1.06 |
-| 85 | August | 1.06 |
-| 86 | Blxzee | 1.06 |
-| 87 | Nosaka🖤 | 1.06 |
-| 88 | Nic145jr | 1.06 |
-| 89 | Gonaaal | 1.06 |
-| 90 | ant siegma | 1.06 |
-| 91 | Bleon | 1.06 |
-| 92 | xsafzis | 1.06 |
-| 93 | Moha21 | 1.06 |
-| 94 | Lucas | 1.06 |
-| 95 | Nes | 1.06 |
-| 96 | Yei Yei | 1.06 |
-| 97 | ivve | 1.06 |
-| 98 | Ray092 | 1.06 |
-| 99 | Suffo | 1.06 |
-| 100 | composureYT | 1.06 |
-| 101 | Foolay | 1.05 |
-| 102 | Romchik | 1.05 |
-| 103 | Magga | 1.05 |
-| 104 | jesko | 1.05 |
-| 105 | Brosta | 1.05 |
-| 106 | GuGu | 1.05 |
-| 107 | The200iq | 1.05 |
-| 108 | t4ri3l | 1.05 |
-| 109 | Dompe | 1.05 |
-| 110 | Veno | 1.05 |
-| 111 | ghoul | 1.05 |
-| 112 | Darksxy | 1.05 |
-| 113 | Gordon007 | 1.04 |
-| 114 | Wedz | 1.04 |
-| 115 | Djayce | 1.04 |
-| 116 | MrDiaz | 1.04 |
-| 117 | Dizzyforever | 1.04 |
-| 118 | Maru | 1.04 |
-| 119 | Anglstent | 1.04 |
-| 120 | Dream | 1.04 |
-| 121 | pink_2999 | 1.04 |
-| 122 | Patchi | 1.04 |
-| 123 | Umit | 1.04 |
-| 124 | Tomzy | 1.04 |
-| 125 | kyky | 1.04 |
-| 126 | Feat21 | 1.04 |
-| 127 | maison | 1.04 |
-| 128 | Yoyo | 1.04 |
-| 129 | keosei | 1.03 |
-| 130 | Abdzz074 | 1.03 |
-| 131 | Sk_DtZ | 1.03 |
-| 132 | dͥavͣiͫdᶰᵒᵒᵇᵘˡ | 1.03 |
-| 133 | Foxyy=2PlaceWarrior | 1.03 |
-| 134 | Andremon | 1.03 |
-| 135 | pucci | 1.03 |
-| 136 | TH_\|_Skynox | 1.03 |
-| 137 | Pokaybs | 1.03 |
-| 138 | Fayro | 1.03 |
-| 139 | zeno | 1.03 |
-| 140 | ηεκο 🖤 | 1.03 |
-| 141 | Fámous | 1.03 |
-| 142 | els0n | 1.03 |
-| 143 | dontpingmebroh | 1.03 |
-| 144 | anthony75 | 1.02 |
-| 145 | newenzo | 1.02 |
-| 146 | Asked | 1.02 |
-| 147 | Pòwêrdás | 1.02 |
-| 148 | Tizzou | 1.02 |
-| 149 | Winexx | 1.02 |
-| 150 | Sori7 | 1.02 |
-| 151 | Flip | 1.02 |
-| 152 | Fayelo | 1.02 |
-| 153 | RC \| Toji | 1.02 |
-| 154 | Negr_pidors yeban228 | 1.02 |
-| 155 | Danieeeeel | 1.02 |
-| 156 | Yannic | 1.02 |
-| 157 | miloo! | 1.02 |
-| 158 | BojanKoza? | 1.01 |
-| 159 | Kadrant | 1.01 |
-| 160 | Gordonn | 1.01 |
-| 161 | Dybalaaaaa | 1.01 |
-| 162 | falcon🔥 | 1.01 |
-| 163 | Younesbs | 1.01 |
-| 164 | crypttrivial | 1.01 |
-| 165 | Filo | 1.01 |
-| 166 | avestiQ | 1.01 |
-| 167 | Revan | 1.01 |
-| 168 | Ion. | 1.01 |
-| 169 | АртемкаТоп1 | 1.01 |
-| 170 | kyrz17 | 1.01 |
-| 171 | Gatitobombini | 1.01 |
-| 172 | KerousBS | 1.01 |
-| 173 | Monimax! | 1.01 |
-| 174 | fig_vam | 1.01 |
-| 175 | Kiv | 1.01 |
-| 176 | Inferno | 1.01 |
-| 177 | Jin Woo. | 1.00 |
-| 178 | Dian | 1.00 |
-| 179 | Šimák | 1.00 |
-| 180 | James | 1.00 |
-| 181 | Kiryû. | 1.00 |
-| 182 | alber.bs | 1.00 |
-| 183 | Lord191929 | 1.00 |
-| 184 | PounBs | 1.00 |
-| 185 | Dan1 | 1.00 |
-| 186 | erhulioabe | 1.00 |
-| 187 | LoonAX | 1.00 |
-| 188 | Wizard | 1.00 |
-| 189 | story2014 | 1.00 |
-| 190 | Komat | 1.00 |
-| 191 | Crnamagla | 1.00 |
-| 192 | chev | 0.99 |
-| 193 | Kubittera | 0.99 |
-| 194 | Pommes | 0.99 |
-| 195 | ~shura~ | 0.99 |
-| 196 | skils | 0.99 |
-| 197 | tacos512 | 0.99 |
-| 198 | Maury | 0.99 |
-| 199 | aquamarin | 0.99 |
-| 200 | Vindixx | 0.99 |
-| 201 | AS\|PALESTINE | 0.99 |
-| 202 | Darikson | 0.99 |
-| 203 | TJ | 0.99 |
-| 204 | Newexx | 0.99 |
-| 205 | Nani | 0.99 |
-| 206 | DafZz | 0.99 |
-| 207 | clix prime | 0.99 |
-| 208 | no4ka | 0.98 |
-| 209 | Suzu | 0.98 |
-| 210 | Escxnor | 0.98 |
-| 211 | niv | 0.98 |
-| 212 | nixobabygirl | 0.98 |
-| 213 | CSIleboss | 0.98 |
-| 214 | NeRo? | 0.98 |
-| 215 | Micrix | 0.98 |
-| 216 | Yoichi | 0.98 |
-| 217 | Dunkler_Magier | 0.98 |
-| 218 | Alive | 0.98 |
-| 219 | Ethan | 0.98 |
-| 220 | nick_bs07 | 0.98 |
-| 221 | SmiFFylmao | 0.98 |
-| 222 | Pixel13w | 0.98 |
-| 223 | FPL\|Catify个 | 0.98 |
-| 224 | Dave | 0.98 |
-| 225 | hanisv. | 0.98 |
-| 226 | Soka | 0.98 |
-| 227 | Farhan | 0.98 |
-| 228 | NiklasGOTY | 0.98 |
-| 229 | BBangelo🍥 | 0.98 |
-| 230 | rayezzxxx | 0.98 |
-| 231 | WilmaSxS | 0.97 |
-| 232 | AlkaAlka | 0.97 |
-| 233 | ValentinoXL | 0.97 |
-| 234 | P13tr05 | 0.97 |
-| 235 | Wooky | 0.97 |
-| 236 | txtttyQu | 0.97 |
-| 237 | Neroxx | 0.97 |
-| 238 | Marcitoo🖤 | 0.97 |
-| 239 | DPB \| Jammie | 0.97 |
-| 240 | Vlad>France | 0.97 |
-| 241 | Andi | 0.97 |
-| 242 | Ohad | 0.96 |
-| 243 | rapoint | 0.96 |
-| 244 | Luinor ❄️ | 0.96 |
-| 245 | MK | 0.96 |
-| 246 | QR\|Honjak | 0.96 |
-| 247 | Wild | 0.96 |
-| 248 | Zetsu | 0.96 |
-| 249 | Zephyr | 0.96 |
-| 250 | DaNi | 0.96 |
-| 251 | Kotelmag | 0.96 |
-| 252 | Kingsley_Dennis | 0.96 |
-| 253 | Mike神 | 0.96 |
-| 254 | Amon | 0.96 |
-| 255 | vSwEaZy | 0.96 |
-| 256 | Tommy_🤍リケー | 0.96 |
-| 257 | Fury296 | 0.95 |
-| 258 | xebec | 0.95 |
-| 259 | pharaon0691 | 0.95 |
-| 260 | Gripzz | 0.95 |
-| 261 | Danielricci2011_ | 0.95 |
-| 262 | Wardxn | 0.95 |
-| 263 | jahirtampo? | 0.95 |
-| 264 | bright95 | 0.95 |
-| 265 | kratosgoat | 0.95 |
-| 266 | txpcio | 0.95 |
-| 267 | Astro | 0.95 |
-| 268 | Dren | 0.95 |
-| 269 | またもうプロ | 0.94 |
-| 270 | Maestr0 | 0.94 |
-| 271 | Citrofartsniffer | 0.94 |
-| 272 | Milxy | 0.94 |
-| 273 | iMichxss💙 | 0.94 |
-| 274 | japanese | 0.94 |
-| 275 | Chetterfrr | 0.94 |
-| 276 | BlueDemon | 0.94 |
-| 277 | Mimish | 0.94 |
-| 278 | d_dragons | 0.94 |
-| 279 | aura.0066 | 0.94 |
-| 280 | atlas | 0.94 |
-| 281 | Nico | 0.94 |
-| 282 | 1715perfect | 0.94 |
-| 283 | NRDrax | 0.94 |
-| 284 | Bossonormaldossso | 0.94 |
-| 285 | wlnkly | 0.94 |
-| 286 | idan9625 | 0.94 |
-| 287 | Cityboi | 0.94 |
-| 288 | M3f_Dox | 0.93 |
-| 289 | London | 0.93 |
-| 290 | Mephisto | 0.93 |
-| 291 | axer.evox | 0.93 |
-| 292 | Cronuxx > Vguifer | 0.93 |
-| 293 | Subemelaradio | 0.93 |
-| 294 | 29 | 0.93 |
-| 295 | yo | 0.93 |
-| 296 | edi1ej | 0.93 |
-| 297 | cafeman2046 | 0.93 |
-| 298 | Guille_Rivas_Martin | 0.93 |
-| 299 | İlim | 0.93 |
-| 300 | Bashira | 0.93 |
-| 301 | joden69100 | 0.93 |
-| 302 | Efecann™ | 0.93 |
-| 303 | DanZerBS | 0.93 |
-| 304 | Mecnunn1x | 0.93 |
-| 305 | beast_hoy | 0.93 |
-| 306 | w3zby | 0.92 |
-| 307 | Silent | 0.92 |
-| 308 | Strateg_Og | 0.92 |
-| 309 | rip_spirit | 0.92 |
-| 310 | RodGer | 0.92 |
-| 311 | Krykys | 0.92 |
-| 312 | dimn123456 | 0.92 |
-| 313 | Eli🪻🪻 | 0.92 |
-| 314 | Reject | 0.92 |
-| 315 | AuKa | 0.92 |
-| 316 | Alexis | 0.92 |
-| 317 | prince | 0.92 |
-| 318 | Abdullah | 0.92 |
-| 319 | Hamed | 0.92 |
-| 320 | Hakan | 0.92 |
-| 321 | Savosya | 0.92 |
-| 322 | DAMAG | 0.92 |
-| 323 | Lemium | 0.92 |
-| 324 | Dad_teg | 0.92 |
-| 325 | Elil | 0.92 |
-| 326 | zyra. | 0.91 |
-| 327 | Hope💕 | 0.91 |
-| 328 | barmaley52 | 0.91 |
-| 329 | Jojo_fire YT | 0.91 |
-| 330 | iShawn | 0.91 |
-| 331 | elephantcasi | 0.91 |
-| 332 | criper1000 | 0.91 |
-| 333 | LF_Koipiok | 0.91 |
-| 334 | Cawboy | 0.91 |
-| 335 | Selim | 0.91 |
-| 336 | Astro | 0.91 |
-| 337 | Sight | 0.91 |
-| 338 | Raphael | 0.91 |
-| 339 | Ali_kadir | 0.90 |
-| 340 | Matonrata | 0.90 |
-| 341 | Haizen | 0.90 |
-| 342 | TDS\|LànsɛløT🦊 | 0.90 |
-| 343 | Andi Arbeit | 0.90 |
-| 344 | Spike | 0.90 |
-| 345 | yeahvoice | 0.90 |
-| 346 | Talentic | 0.90 |
-| 347 | Ricky | 0.90 |
-| 348 | skn | 0.90 |
-| 349 | abu | 0.90 |
-| 350 | Phantom | 0.90 |
-| 351 | MWA SHEPAA | 0.90 |
-| 352 | Powerrr | 0.90 |
-| 353 | Saltix | 0.89 |
-| 354 | TDS \| MELIODAS | 0.89 |
-| 355 | 在SZxMON | 0.89 |
-| 356 | Zynqor | 0.89 |
-| 357 | Axhraff | 0.89 |
-| 358 | drak21 | 0.89 |
-| 359 | Fluxx | 0.89 |
-| 360 | Poxyy | 0.89 |
-| 361 | larafal | 0.88 |
-| 362 | HPN \| RJ | 0.88 |
-| 363 | Nou | 0.88 |
-| 364 | Jackss | 0.88 |
-| 365 | Marli57 | 0.88 |
-| 366 | Telexxes | 0.88 |
-| 367 | Tryhard | 0.88 |
-| 368 | enezy | 0.88 |
-| 369 | DF\|_Blade | 0.88 |
-| 370 | DF_\|_𝙰𝚕𝚎𝚡シ✞ | 0.88 |
-| 371 | Jonas | 0.88 |
-| 372 | Alien | 0.88 |
-| 373 | Christian_Ruiz | 0.88 |
-| 374 | Yoxxx | 0.88 |
-| 375 | firewind21 | 0.88 |
-| 376 | kerimalimaxgg | 0.88 |
-| 377 | velvetmp3 | 0.88 |
-| 378 | MCDaredo | 0.87 |
-| 379 | yaztam | 0.87 |
-| 380 | Mwlihx | 0.87 |
-| 381 | Guderstor. | 0.87 |
-| 382 | SaNyx | 0.87 |
-| 383 | arquerogamer09 | 0.87 |
-| 384 | AndyCoolBrawler | 0.87 |
-| 385 | ELEMENTUS | 0.87 |
-| 386 | flex05266 | 0.87 |
-| 387 | Lukrito | 0.87 |
-| 388 | Famousabi | 0.87 |
-| 389 | milian | 0.87 |
-| 390 | Murzifir69 | 0.86 |
-| 391 | Bayraktaryks | 0.86 |
-| 392 | Yalu | 0.86 |
-| 393 | Nic927 | 0.86 |
-| 394 | Brohemien | 0.86 |
-| 395 | Sneaky_Qwer | 0.86 |
-| 396 | raz_raz | 0.86 |
-| 397 | Wertyp | 0.86 |
-| 398 | ꜰʟᴜʀʀʏ永遠に🤍 | 0.86 |
-| 399 | WwRz | 0.86 |
-| 400 | FIZZER | 0.85 |
-| 401 | Poparatzi | 0.85 |
-| 402 | 王尊_𝒜𝓁ℯ𝓍_🔥⚡ | 0.85 |
-| 403 | xaleme. | 0.85 |
-| 404 | Jolik | 0.85 |
-| 405 | Nomber4k | 0.85 |
-| 406 | mxskalli | 0.85 |
-| 407 | Nekky | 0.85 |
-| 408 | 我\|Lynxx❤️‍🩹 | 0.85 |
-| 409 | 就 \| 𝕄𝖎𝗰𝕜ɇℽ 🩵 | 0.85 |
-| 410 | SpxctRal | 0.85 |
-| 411 | Laderx | 0.85 |
-| 412 | NaskyGgWp | 0.85 |
-| 413 | Kaszpe | 0.84 |
-| 414 | MS\| markizzz | 0.84 |
-| 415 | @ssillwer | 0.84 |
-| 416 | RJ | 0.84 |
-| 417 | Lyrax | 0.84 |
-| 418 | Luca_1111 | 0.84 |
-| 419 | FUT_\|_Salsa | 0.84 |
-| 420 | Papixistnichtfett | 0.84 |
-| 421 | THISISBAUTI | 0.84 |
-| 422 | thor_bs | 0.83 |
-| 423 | Solstice | 0.83 |
-| 424 | Shikimori🤍 | 0.83 |
-| 425 | Radionxy | 0.83 |
-| 426 | MrBrendan | 0.83 |
-| 427 | LOLLO | 0.83 |
-| 428 | Mattia | 0.83 |
-| 429 | Bot1337 | 0.83 |
-| 430 | prizz | 0.83 |
-| 431 | Pero | 0.83 |
-| 432 | obaQALT | 0.83 |
-| 433 | Younss | 0.83 |
-| 434 | Mohammed | 0.83 |
-| 435 | nodj777 | 0.83 |
-| 436 | Nyx | 0.83 |
-| 437 | wwxryy | 0.83 |
-| 438 | Ionkal | 0.83 |
-| 439 | A58\| Marius | 0.82 |
-| 440 | ezclapswow | 0.82 |
-| 441 | Aquila | 0.82 |
-| 442 | Rares | 0.82 |
-| 443 | Zukeqsa | 0.82 |
-| 444 | Kushoka | 0.82 |
-| 445 | Busterrr | 0.82 |
-| 446 | NUIS | 0.82 |
-| 447 | Roxifarm | 0.82 |
-| 448 | INVINCIBLE | 0.82 |
-| 449 | HUBCIO | 0.81 |
-| 450 | lucas⛧ | 0.81 |
-| 451 | XxTheRainerYT | 0.81 |
-| 452 | AiZen | 0.81 |
-| 453 | RTS_Morizz | 0.81 |
-| 454 | iFIX | 0.81 |
-| 455 | ZLX \| Atakull | 0.81 |
-| 456 | Kacpix | 0.81 |
-| 457 | samuel | 0.81 |
-| 458 | ZenyxNFX | 0.81 |
-| 459 | FXN \| Lukka | 0.81 |
-| 460 | rotezeg | 0.81 |
-| 461 | ☯️satoru☯️ | 0.81 |
-| 462 | FUT\|MERTV | 0.81 |
-| 463 | Богдан_видаль | 0.81 |
-| 464 | LGN\|Bizzzarro | 0.80 |
-| 465 | Ez_You🇨🇵🇰🇭 | 0.80 |
-| 466 | TDS \| E§canoř | 0.80 |
-| 467 | Giannkss17 | 0.80 |
-| 468 | Philipp1 | 0.80 |
-| 469 | Luch_096 | 0.80 |
-| 470 | Er_banano | 0.80 |
-| 471 | Miracle | 0.80 |
-| 472 | justnegg | 0.80 |
-| 473 | nonoxx | 0.79 |
-| 474 | Matcherinogoats | 0.79 |
-| 475 | Nadrex | 0.79 |
-| 476 | ensar_anlağan | 0.79 |
-| 477 | Gamer97 | 0.79 |
-| 478 | Mr_LeSanji | 0.79 |
-| 479 | Дмитрий | 0.79 |
-| 480 | ®dinner© | 0.79 |
-| 481 | Sanek_Bananov | 0.79 |
-| 482 | Alin | 0.79 |
-| 483 | Dragoșヤ | 0.78 |
-| 484 | Páj | 0.78 |
-| 485 | QR Flipzy | 0.78 |
-| 486 | SK\|GUSTON | 0.78 |
-| 487 | Vortex | 0.78 |
-| 488 | Linus | 0.78 |
-| 489 | RTS Blizzard | 0.78 |
-| 490 | bekakuni | 0.78 |
-| 491 | Lega | 0.78 |
-| 492 | Rune | 0.78 |
-| 493 | Exony | 0.78 |
-| 494 | Dan_BRO | 0.78 |
-| 495 | ventsi | 0.78 |
-| 496 | Agyzok | 0.77 |
-| 497 | Tada | 0.77 |
-| 498 | Vojta | 0.77 |
-| 499 | Pablo740 | 0.77 |
-| 500 | miisu | 0.77 |
-| 501 | Froster | 0.77 |
-| 502 | Jonah | 0.77 |
-| 503 | st0l3r | 0.77 |
-| 504 | Cristian_regele | 0.77 |
-| 505 | ZLX \| Iván2.0 | 0.77 |
-| 506 | Saygı | 0.77 |
-| 507 | treymi | 0.77 |
-| 508 | Tsuyoshi | 0.77 |
-| 509 | Baisher_Kto_ia? | 0.76 |
-| 510 | a95_stv | 0.76 |
-| 511 | VibeRush | 0.76 |
-| 512 | mythkal | 0.76 |
-| 513 | LusPikK | 0.75 |
-| 514 | Szczesiakk | 0.75 |
-| 515 | Miry | 0.75 |
-| 516 | Saha228com | 0.75 |
-| 517 | 🩸🩸🩸\|Amir | 0.75 |
-| 518 | MS\|switizzz | 0.74 |
-| 519 | gengario | 0.74 |
-| 520 | VRT \| Fiora2506 | 0.74 |
-| 521 | shinbannedmain | 0.74 |
-| 522 | ssirex🐙 | 0.74 |
-| 523 | Chahine | 0.74 |
-| 524 | Ten_Andrew | 0.73 |
-| 525 | Platinium_bs | 0.73 |
-| 526 | Yankee | 0.72 |
-| 527 | ? | 0.72 |
-| 528 | forzasenziente | 0.72 |
-| 529 | TimTammy | 0.72 |
-| 530 | FRX\|aggelosOG | 0.71 |
-| 531 | Ulusha878 | 0.71 |
-| 532 | HaZe | 0.71 |
-| 533 | Guille | 0.70 |
-| 534 | Aury | 0.70 |
-| 535 | Lennox_Utech | 0.69 |
-| 536 | Кто_то | 0.69 |
-| 537 | frostbs | 0.68 |
-| 538 | Soke | 0.68 |
-| 539 | SB\|Darkness | 0.67 |
-| 540 | Ai3ek1loveyouzzz | 0.67 |
-| 541 | keng | 0.67 |
-| 542 | FRX\|FANIS23 | 0.66 |
-| 543 | DARSH_BRAWL_xd | 0.65 |
-| 544 | Flo2305 | 0.64 |
-| 545 | misty | 0.64 |
-| 546 | Kimkim2000 | 0.61 |
+| POSITION | PLAYER | RATING | SETS |
+| :---: | :--- | :---: | :---: |
+| 1 | BlxzZe | 1.22 | 7 |
+| 2 | carry09 | 1.21 | 9 |
+| 3 | sroyyy_ | 1.21 | 4 |
+| 4 | Qwuizy | 1.20 | 4 |
+| 5 | Lxo | 1.19 | 11 |
+| 6 | mem9295 | 1.19 | 6 |
+| 7 | Natrix | 1.19 | 21 |
+| 8 | wadnesss | 1.18 | 6 |
+| 9 | Saber | 1.17 | 7 |
+| 10 | Unlucky | 1.17 | 6 |
+| 11 | Leovrok171 | 1.17 | 6 |
+| 12 | Harshan | 1.17 | 7 |
+| 13 | DLP | 1.17 | 4 |
+| 14 | KalteBs | 1.16 | 7 |
+| 15 | leosgameworld | 1.16 | 4 |
+| 16 | LINBOX | 1.16 | 2 |
+| 17 | Temperament | 1.15 | 2 |
+| 18 | Banned \| Marko9ll | 1.14 | 4 |
+| 19 | Lifes | 1.14 | 6 |
+| 20 | Alex被 | 1.14 | 9 |
+| 21 | Lucas | 1.14 | 5 |
+| 22 | defENDER | 1.13 | 7 |
+| 23 | Louri | 1.13 | 10 |
+| 24 | mysterio66 | 1.13 | 8 |
+| 25 | Tex | 1.12 | 6 |
+| 26 | Desquel | 1.12 | 6 |
+| 27 | Movind | 1.12 | 6 |
+| 28 | Light | 1.12 | 5 |
+| 29 | flamen dialis | 1.12 | 8 |
+| 30 | SveNZ | 1.12 | 5 |
+| 31 | Timo | 1.12 | 4 |
+| 32 | ryzo | 1.12 | 7 |
+| 33 | Bot1 | 1.11 | 7 |
+| 34 | oicwap | 1.11 | 5 |
+| 35 | Decaii | 1.11 | 7 |
+| 36 | flash2138 | 1.11 | 8 |
+| 37 | La ✨Que✨ | 1.10 | 5 |
+| 38 | Luffy!? | 1.10 | 6 |
+| 39 | Astralcrisis | 1.10 | 5 |
+| 40 | Melih | 1.10 | 13 |
+| 41 | flokky | 1.10 | 2 |
+| 42 | Agachi | 1.10 | 19 |
+| 43 | Cxssmo | 1.10 | 10 |
+| 44 | hate09754 | 1.09 | 11 |
+| 45 | Joker | 1.09 | 9 |
+| 46 | VK\|erc❤️‍🔥 | 1.09 | 12 |
+| 47 | Snowy🤍 | 1.09 | 6 |
+| 48 | Arka | 1.09 | 10 |
+| 49 | Mathiaspoder | 1.09 | 5 |
+| 50 | rinor | 1.09 | 5 |
+| 51 | Edui🎀❤️ | 1.08 | 8 |
+| 52 | xSkYRiiKZz | 1.08 | 9 |
+| 53 | kid | 1.08 | 6 |
+| 54 | Ace | 1.08 | 6 |
+| 55 | iShxdowqu | 1.08 | 3 |
+| 56 | Maor | 1.08 | 7 |
+| 57 | siwy | 1.08 | 7 |
+| 58 | ganda | 1.08 | 7 |
+| 59 | chevy | 1.08 | 4 |
+| 60 | Sxjic | 1.08 | 10 |
+| 61 | howyoufeel? | 1.08 | 3 |
+| 62 | Дэн Айсшотов | 1.08 | 2 |
+| 63 | Ćiro | 1.08 | 7 |
+| 64 | Mine | 1.08 | 14 |
+| 65 | Yoshi | 1.08 | 4 |
+| 66 | Bogiiiiiii | 1.08 | 11 |
+| 67 | Seared | 1.08 | 2 |
+| 68 | Mingystin | 1.08 | 4 |
+| 69 | Beneeywa | 1.07 | 7 |
+| 70 | Gargas | 1.07 | 10 |
+| 71 | SanFire | 1.07 | 9 |
+| 72 | rema👅 | 1.07 | 9 |
+| 73 | erwnn_5 | 1.07 | 4 |
+| 74 | nloverax | 1.07 | 9 |
+| 75 | sad_loner. | 1.07 | 4 |
+| 76 | Arthur | 1.07 | 13 |
+| 77 | pontifex1181 | 1.07 | 8 |
+| 78 | Tiktok Zetatrix | 1.07 | 5 |
+| 79 | Gravity | 1.07 | 5 |
+| 80 | Bartforfd | 1.07 | 4 |
+| 81 | DanZer | 1.07 | 4 |
+| 82 | Biluux | 1.06 | 10 |
+| 83 | Di_fiz1k | 1.06 | 5 |
+| 84 | Serious. | 1.06 | 7 |
+| 85 | August | 1.06 | 7 |
+| 86 | Blxzee | 1.06 | 7 |
+| 87 | Nosaka🖤 | 1.06 | 2 |
+| 88 | Nic145jr | 1.06 | 8 |
+| 89 | Gonaaal | 1.06 | 10 |
+| 90 | ant siegma | 1.06 | 12 |
+| 91 | Bleon | 1.06 | 12 |
+| 92 | xsafzis | 1.06 | 2 |
+| 93 | Moha21 | 1.06 | 10 |
+| 94 | Lucas | 1.06 | 5 |
+| 95 | Nes | 1.06 | 14 |
+| 96 | Yei Yei | 1.06 | 19 |
+| 97 | ivve | 1.06 | 5 |
+| 98 | Ray092 | 1.06 | 10 |
+| 99 | Suffo | 1.06 | 4 |
+| 100 | composureYT | 1.06 | 4 |
+| 101 | Foolay | 1.05 | 7 |
+| 102 | Romchik | 1.05 | 6 |
+| 103 | Magga | 1.05 | 10 |
+| 104 | jesko | 1.05 | 3 |
+| 105 | Brosta | 1.05 | 6 |
+| 106 | GuGu | 1.05 | 6 |
+| 107 | The200iq | 1.05 | 8 |
+| 108 | t4ri3l | 1.05 | 3 |
+| 109 | Dompe | 1.05 | 14 |
+| 110 | Veno | 1.05 | 4 |
+| 111 | ghoul | 1.05 | 3 |
+| 112 | Darksxy | 1.05 | 4 |
+| 113 | Gordon007 | 1.04 | 7 |
+| 114 | Wedz | 1.04 | 2 |
+| 115 | Djayce | 1.04 | 7 |
+| 116 | MrDiaz | 1.04 | 6 |
+| 117 | Dizzyforever | 1.04 | 3 |
+| 118 | Maru | 1.04 | 9 |
+| 119 | Anglstent | 1.04 | 6 |
+| 120 | Dream | 1.04 | 6 |
+| 121 | pink_2999 | 1.04 | 12 |
+| 122 | Patchi | 1.04 | 4 |
+| 123 | Umit | 1.04 | 5 |
+| 124 | Tomzy | 1.04 | 19 |
+| 125 | kyky | 1.04 | 4 |
+| 126 | Feat21 | 1.04 | 4 |
+| 127 | maison | 1.04 | 2 |
+| 128 | Yoyo | 1.04 | 4 |
+| 129 | keosei | 1.03 | 1 |
+| 130 | Abdzz074 | 1.03 | 4 |
+| 131 | Sk_DtZ | 1.03 | 11 |
+| 132 | dͥavͣiͫdᶰᵒᵒᵇᵘˡ | 1.03 | 6 |
+| 133 | Foxyy=2PlaceWarrior | 1.03 | 9 |
+| 134 | Andremon | 1.03 | 6 |
+| 135 | pucci | 1.03 | 2 |
+| 136 | TH_\|_Skynox | 1.03 | 3 |
+| 137 | Pokaybs | 1.03 | 7 |
+| 138 | Fayro | 1.03 | 7 |
+| 139 | zeno | 1.03 | 13 |
+| 140 | ηεκο 🖤 | 1.03 | 3 |
+| 141 | Fámous | 1.03 | 12 |
+| 142 | els0n | 1.03 | 5 |
+| 143 | dontpingmebroh | 1.03 | 4 |
+| 144 | anthony75 | 1.02 | 3 |
+| 145 | newenzo | 1.02 | 2 |
+| 146 | Asked | 1.02 | 7 |
+| 147 | Pòwêrdás | 1.02 | 9 |
+| 148 | Tizzou | 1.02 | 6 |
+| 149 | Winexx | 1.02 | 2 |
+| 150 | Sori7 | 1.02 | 4 |
+| 151 | Flip | 1.02 | 4 |
+| 152 | Fayelo | 1.02 | 21 |
+| 153 | RC \| Toji | 1.02 | 8 |
+| 154 | Negr_pidors yeban228 | 1.02 | 3 |
+| 155 | Danieeeeel | 1.02 | 2 |
+| 156 | Yannic | 1.02 | 10 |
+| 157 | miloo! | 1.02 | 6 |
+| 158 | BojanKoza? | 1.01 | 4 |
+| 159 | Kadrant | 1.01 | 1 |
+| 160 | Gordonn | 1.01 | 6 |
+| 161 | Dybalaaaaa | 1.01 | 7 |
+| 162 | falcon🔥 | 1.01 | 6 |
+| 163 | Younesbs | 1.01 | 7 |
+| 164 | crypttrivial | 1.01 | 5 |
+| 165 | Filo | 1.01 | 7 |
+| 166 | avestiQ | 1.01 | 4 |
+| 167 | Revan | 1.01 | 8 |
+| 168 | Ion. | 1.01 | 8 |
+| 169 | АртемкаТоп1 | 1.01 | 1 |
+| 170 | kyrz17 | 1.01 | 4 |
+| 171 | Gatitobombini | 1.01 | 2 |
+| 172 | KerousBS | 1.01 | 9 |
+| 173 | Monimax! | 1.01 | 2 |
+| 174 | fig_vam | 1.01 | 5 |
+| 175 | Kiv | 1.01 | 2 |
+| 176 | Inferno | 1.01 | 8 |
+| 177 | Jin Woo. | 1.00 | 2 |
+| 178 | Dian | 1.00 | 2 |
+| 179 | Šimák | 1.00 | 4 |
+| 180 | James | 1.00 | 2 |
+| 181 | Kiryû. | 1.00 | 12 |
+| 182 | alber.bs | 1.00 | 2 |
+| 183 | Lord191929 | 1.00 | 2 |
+| 184 | PounBs | 1.00 | 10 |
+| 185 | Dan1 | 1.00 | 3 |
+| 186 | erhulioabe | 1.00 | 5 |
+| 187 | LoonAX | 1.00 | 4 |
+| 188 | Wizard | 1.00 | 3 |
+| 189 | story2014 | 1.00 | 3 |
+| 190 | Komat | 1.00 | 3 |
+| 191 | Crnamagla | 1.00 | 8 |
+| 192 | chev | 0.99 | 4 |
+| 193 | Kubittera | 0.99 | 4 |
+| 194 | Pommes | 0.99 | 3 |
+| 195 | ~shura~ | 0.99 | 1 |
+| 196 | skils | 0.99 | 5 |
+| 197 | tacos512 | 0.99 | 7 |
+| 198 | Maury | 0.99 | 9 |
+| 199 | aquamarin | 0.99 | 4 |
+| 200 | Vindixx | 0.99 | 4 |
+| 201 | AS\|PALESTINE | 0.99 | 2 |
+| 202 | Darikson | 0.99 | 3 |
+| 203 | TJ | 0.99 | 3 |
+| 204 | Newexx | 0.99 | 5 |
+| 205 | Nani | 0.99 | 2 |
+| 206 | DafZz | 0.99 | 4 |
+| 207 | clix prime | 0.99 | 4 |
+| 208 | no4ka | 0.98 | 2 |
+| 209 | Suzu | 0.98 | 4 |
+| 210 | Escxnor | 0.98 | 9 |
+| 211 | niv | 0.98 | 8 |
+| 212 | nixobabygirl | 0.98 | 8 |
+| 213 | CSIleboss | 0.98 | 1 |
+| 214 | NeRo? | 0.98 | 7 |
+| 215 | Micrix | 0.98 | 2 |
+| 216 | Yoichi | 0.98 | 4 |
+| 217 | Dunkler_Magier | 0.98 | 5 |
+| 218 | Alive | 0.98 | 5 |
+| 219 | Ethan | 0.98 | 21 |
+| 220 | nick_bs07 | 0.98 | 9 |
+| 221 | SmiFFylmao | 0.98 | 3 |
+| 222 | Pixel13w | 0.98 | 3 |
+| 223 | FPL\|Catify个 | 0.98 | 2 |
+| 224 | Dave | 0.98 | 11 |
+| 225 | hanisv. | 0.98 | 11 |
+| 226 | Soka | 0.98 | 4 |
+| 227 | Farhan | 0.98 | 2 |
+| 228 | NiklasGOTY | 0.98 | 2 |
+| 229 | BBangelo🍥 | 0.98 | 6 |
+| 230 | rayezzxxx | 0.98 | 2 |
+| 231 | WilmaSxS | 0.97 | 6 |
+| 232 | AlkaAlka | 0.97 | 4 |
+| 233 | ValentinoXL | 0.97 | 2 |
+| 234 | P13tr05 | 0.97 | 2 |
+| 235 | Wooky | 0.97 | 4 |
+| 236 | txtttyQu | 0.97 | 7 |
+| 237 | Neroxx | 0.97 | 2 |
+| 238 | Marcitoo🖤 | 0.97 | 3 |
+| 239 | DPB \| Jammie | 0.97 | 4 |
+| 240 | Vlad>France | 0.97 | 2 |
+| 241 | Andi | 0.97 | 8 |
+| 242 | Ohad | 0.96 | 7 |
+| 243 | rapoint | 0.96 | 6 |
+| 244 | Luinor ❄️ | 0.96 | 6 |
+| 245 | MK | 0.96 | 7 |
+| 246 | QR\|Honjak | 0.96 | 1 |
+| 247 | Wild | 0.96 | 5 |
+| 248 | Zetsu | 0.96 | 4 |
+| 249 | Zephyr | 0.96 | 4 |
+| 250 | DaNi | 0.96 | 4 |
+| 251 | Kotelmag | 0.96 | 3 |
+| 252 | Kingsley_Dennis | 0.96 | 2 |
+| 253 | Mike神 | 0.96 | 2 |
+| 254 | Amon | 0.96 | 2 |
+| 255 | vSwEaZy | 0.96 | 4 |
+| 256 | Tommy_🤍リケー | 0.96 | 2 |
+| 257 | Fury296 | 0.95 | 6 |
+| 258 | xebec | 0.95 | 3 |
+| 259 | pharaon0691 | 0.95 | 2 |
+| 260 | Gripzz | 0.95 | 2 |
+| 261 | Danielricci2011_ | 0.95 | 2 |
+| 262 | Wardxn | 0.95 | 2 |
+| 263 | jahirtampo? | 0.95 | 3 |
+| 264 | bright95 | 0.95 | 3 |
+| 265 | kratosgoat | 0.95 | 2 |
+| 266 | txpcio | 0.95 | 1 |
+| 267 | Astro | 0.95 | 4 |
+| 268 | Dren | 0.95 | 2 |
+| 269 | またもうプロ | 0.94 | 2 |
+| 270 | Maestr0 | 0.94 | 2 |
+| 271 | Citrofartsniffer | 0.94 | 6 |
+| 272 | Milxy | 0.94 | 2 |
+| 273 | iMichxss💙 | 0.94 | 2 |
+| 274 | japanese | 0.94 | 5 |
+| 275 | Chetterfrr | 0.94 | 1 |
+| 276 | BlueDemon | 0.94 | 1 |
+| 277 | Mimish | 0.94 | 7 |
+| 278 | d_dragons | 0.94 | 3 |
+| 279 | aura.0066 | 0.94 | 2 |
+| 280 | atlas | 0.94 | 3 |
+| 281 | Nico | 0.94 | 2 |
+| 282 | 1715perfect | 0.94 | 4 |
+| 283 | NRDrax | 0.94 | 5 |
+| 284 | Bossonormaldossso | 0.94 | 4 |
+| 285 | wlnkly | 0.94 | 4 |
+| 286 | idan9625 | 0.94 | 9 |
+| 287 | Cityboi | 0.94 | 2 |
+| 288 | M3f_Dox | 0.93 | 7 |
+| 289 | London | 0.93 | 3 |
+| 290 | Mephisto | 0.93 | 3 |
+| 291 | axer.evox | 0.93 | 2 |
+| 292 | Cronuxx > Vguifer | 0.93 | 2 |
+| 293 | Subemelaradio | 0.93 | 2 |
+| 294 | 29 | 0.93 | 2 |
+| 295 | yo | 0.93 | 2 |
+| 296 | edi1ej | 0.93 | 2 |
+| 297 | cafeman2046 | 0.93 | 2 |
+| 298 | Guille_Rivas_Martin | 0.93 | 2 |
+| 299 | İlim | 0.93 | 2 |
+| 300 | Bashira | 0.93 | 1 |
+| 301 | joden69100 | 0.93 | 4 |
+| 302 | Efecann™ | 0.93 | 2 |
+| 303 | DanZerBS | 0.93 | 4 |
+| 304 | Mecnunn1x | 0.93 | 4 |
+| 305 | beast_hoy | 0.93 | 1 |
+| 306 | w3zby | 0.92 | 2 |
+| 307 | Silent | 0.92 | 7 |
+| 308 | Strateg_Og | 0.92 | 2 |
+| 309 | rip_spirit | 0.92 | 2 |
+| 310 | RodGer | 0.92 | 6 |
+| 311 | Krykys | 0.92 | 1 |
+| 312 | dimn123456 | 0.92 | 3 |
+| 313 | Eli🪻🪻 | 0.92 | 2 |
+| 314 | Reject | 0.92 | 2 |
+| 315 | AuKa | 0.92 | 2 |
+| 316 | Alexis | 0.92 | 2 |
+| 317 | prince | 0.92 | 3 |
+| 318 | Abdullah | 0.92 | 1 |
+| 319 | Hamed | 0.92 | 2 |
+| 320 | Hakan | 0.92 | 2 |
+| 321 | Savosya | 0.92 | 2 |
+| 322 | DAMAG | 0.92 | 2 |
+| 323 | Lemium | 0.92 | 3 |
+| 324 | Dad_teg | 0.92 | 2 |
+| 325 | Elil | 0.92 | 4 |
+| 326 | zyra. | 0.91 | 6 |
+| 327 | Hope💕 | 0.91 | 2 |
+| 328 | barmaley52 | 0.91 | 2 |
+| 329 | Jojo_fire YT | 0.91 | 4 |
+| 330 | iShawn | 0.91 | 3 |
+| 331 | elephantcasi | 0.91 | 3 |
+| 332 | criper1000 | 0.91 | 2 |
+| 333 | LF_Koipiok | 0.91 | 5 |
+| 334 | Cawboy | 0.91 | 3 |
+| 335 | Selim | 0.91 | 2 |
+| 336 | Astro | 0.91 | 2 |
+| 337 | Sight | 0.91 | 4 |
+| 338 | Raphael | 0.91 | 4 |
+| 339 | Ali_kadir | 0.90 | 2 |
+| 340 | Matonrata | 0.90 | 2 |
+| 341 | Haizen | 0.90 | 2 |
+| 342 | TDS\|LànsɛløT🦊 | 0.90 | 2 |
+| 343 | Andi Arbeit | 0.90 | 1 |
+| 344 | Spike | 0.90 | 5 |
+| 345 | yeahvoice | 0.90 | 2 |
+| 346 | Talentic | 0.90 | 2 |
+| 347 | Ricky | 0.90 | 5 |
+| 348 | skn | 0.90 | 2 |
+| 349 | abu | 0.90 | 1 |
+| 350 | Phantom | 0.90 | 2 |
+| 351 | MWA SHEPAA | 0.90 | 2 |
+| 352 | Powerrr | 0.90 | 2 |
+| 353 | Saltix | 0.89 | 1 |
+| 354 | TDS \| MELIODAS | 0.89 | 2 |
+| 355 | 在SZxMON | 0.89 | 2 |
+| 356 | Zynqor | 0.89 | 2 |
+| 357 | Axhraff | 0.89 | 2 |
+| 358 | drak21 | 0.89 | 2 |
+| 359 | Fluxx | 0.89 | 2 |
+| 360 | Poxyy | 0.89 | 4 |
+| 361 | larafal | 0.88 | 2 |
+| 362 | HPN \| RJ | 0.88 | 2 |
+| 363 | Nou | 0.88 | 1 |
+| 364 | Jackss | 0.88 | 2 |
+| 365 | Marli57 | 0.88 | 2 |
+| 366 | Telexxes | 0.88 | 2 |
+| 367 | Tryhard | 0.88 | 2 |
+| 368 | enezy | 0.88 | 2 |
+| 369 | DF\|_Blade | 0.88 | 5 |
+| 370 | DF_\|_𝙰𝚕𝚎𝚡シ✞ | 0.88 | 5 |
+| 371 | Jonas | 0.88 | 2 |
+| 372 | Alien | 0.88 | 2 |
+| 373 | Christian_Ruiz | 0.88 | 2 |
+| 374 | Yoxxx | 0.88 | 4 |
+| 375 | firewind21 | 0.88 | 2 |
+| 376 | kerimalimaxgg | 0.88 | 2 |
+| 377 | velvetmp3 | 0.88 | 1 |
+| 378 | MCDaredo | 0.87 | 2 |
+| 379 | yaztam | 0.87 | 3 |
+| 380 | Mwlihx | 0.87 | 2 |
+| 381 | Guderstor. | 0.87 | 3 |
+| 382 | SaNyx | 0.87 | 2 |
+| 383 | arquerogamer09 | 0.87 | 3 |
+| 384 | AndyCoolBrawler | 0.87 | 2 |
+| 385 | ELEMENTUS | 0.87 | 2 |
+| 386 | flex05266 | 0.87 | 1 |
+| 387 | Lukrito | 0.87 | 2 |
+| 388 | Famousabi | 0.87 | 4 |
+| 389 | milian | 0.87 | 6 |
+| 390 | Murzifir69 | 0.86 | 2 |
+| 391 | Bayraktaryks | 0.86 | 2 |
+| 392 | Yalu | 0.86 | 3 |
+| 393 | Nic927 | 0.86 | 5 |
+| 394 | Brohemien | 0.86 | 2 |
+| 395 | Sneaky_Qwer | 0.86 | 2 |
+| 396 | raz_raz | 0.86 | 2 |
+| 397 | Wertyp | 0.86 | 2 |
+| 398 | ꜰʟᴜʀʀʏ永遠に🤍 | 0.86 | 2 |
+| 399 | WwRz | 0.86 | 2 |
+| 400 | FIZZER | 0.85 | 2 |
+| 401 | Poparatzi | 0.85 | 3 |
+| 402 | 王尊_𝒜𝓁ℯ𝓍_🔥⚡ | 0.85 | 2 |
+| 403 | xaleme. | 0.85 | 2 |
+| 404 | Jolik | 0.85 | 2 |
+| 405 | Nomber4k | 0.85 | 1 |
+| 406 | mxskalli | 0.85 | 2 |
+| 407 | Nekky | 0.85 | 2 |
+| 408 | 我\|Lynxx❤️‍🩹 | 0.85 | 1 |
+| 409 | 就 \| 𝕄𝖎𝗰𝕜ɇℽ 🩵 | 0.85 | 2 |
+| 410 | SpxctRal | 0.85 | 2 |
+| 411 | Laderx | 0.85 | 2 |
+| 412 | NaskyGgWp | 0.85 | 4 |
+| 413 | Kaszpe | 0.84 | 5 |
+| 414 | MS\| markizzz | 0.84 | 2 |
+| 415 | @ssillwer | 0.84 | 2 |
+| 416 | RJ | 0.84 | 2 |
+| 417 | Lyrax | 0.84 | 2 |
+| 418 | Luca_1111 | 0.84 | 2 |
+| 419 | FUT_\|_Salsa | 0.84 | 2 |
+| 420 | Papixistnichtfett | 0.84 | 2 |
+| 421 | THISISBAUTI | 0.84 | 1 |
+| 422 | thor_bs | 0.83 | 2 |
+| 423 | Solstice | 0.83 | 3 |
+| 424 | Shikimori🤍 | 0.83 | 2 |
+| 425 | Radionxy | 0.83 | 2 |
+| 426 | MrBrendan | 0.83 | 5 |
+| 427 | LOLLO | 0.83 | 2 |
+| 428 | Mattia | 0.83 | 2 |
+| 429 | Bot1337 | 0.83 | 2 |
+| 430 | prizz | 0.83 | 2 |
+| 431 | Pero | 0.83 | 2 |
+| 432 | obaQALT | 0.83 | 2 |
+| 433 | Younss | 0.83 | 2 |
+| 434 | Mohammed | 0.83 | 2 |
+| 435 | nodj777 | 0.83 | 2 |
+| 436 | Nyx | 0.83 | 2 |
+| 437 | wwxryy | 0.83 | 4 |
+| 438 | Ionkal | 0.83 | 2 |
+| 439 | A58\| Marius | 0.82 | 2 |
+| 440 | ezclapswow | 0.82 | 2 |
+| 441 | Aquila | 0.82 | 3 |
+| 442 | Rares | 0.82 | 3 |
+| 443 | Zukeqsa | 0.82 | 1 |
+| 444 | Kushoka | 0.82 | 2 |
+| 445 | Busterrr | 0.82 | 2 |
+| 446 | NUIS | 0.82 | 2 |
+| 447 | Roxifarm | 0.82 | 4 |
+| 448 | INVINCIBLE | 0.82 | 2 |
+| 449 | HUBCIO | 0.81 | 2 |
+| 450 | lucas⛧ | 0.81 | 2 |
+| 451 | XxTheRainerYT | 0.81 | 2 |
+| 452 | AiZen | 0.81 | 2 |
+| 453 | RTS_Morizz | 0.81 | 2 |
+| 454 | iFIX | 0.81 | 2 |
+| 455 | ZLX \| Atakull | 0.81 | 2 |
+| 456 | Kacpix | 0.81 | 1 |
+| 457 | samuel | 0.81 | 2 |
+| 458 | ZenyxNFX | 0.81 | 2 |
+| 459 | FXN \| Lukka | 0.81 | 2 |
+| 460 | rotezeg | 0.81 | 2 |
+| 461 | ☯️satoru☯️ | 0.81 | 2 |
+| 462 | FUT\|MERTV | 0.81 | 2 |
+| 463 | Богдан_видаль | 0.81 | 2 |
+| 464 | LGN\|Bizzzarro | 0.80 | 2 |
+| 465 | Ez_You🇨🇵🇰🇭 | 0.80 | 2 |
+| 466 | TDS \| E§canoř | 0.80 | 2 |
+| 467 | Giannkss17 | 0.80 | 2 |
+| 468 | Philipp1 | 0.80 | 2 |
+| 469 | Luch_096 | 0.80 | 2 |
+| 470 | Er_banano | 0.80 | 2 |
+| 471 | Miracle | 0.80 | 2 |
+| 472 | justnegg | 0.80 | 2 |
+| 473 | nonoxx | 0.79 | 2 |
+| 474 | Matcherinogoats | 0.79 | 2 |
+| 475 | Nadrex | 0.79 | 2 |
+| 476 | ensar_anlağan | 0.79 | 2 |
+| 477 | Gamer97 | 0.79 | 2 |
+| 478 | Mr_LeSanji | 0.79 | 2 |
+| 479 | Дмитрий | 0.79 | 2 |
+| 480 | ®dinner© | 0.79 | 2 |
+| 481 | Sanek_Bananov | 0.79 | 2 |
+| 482 | Alin | 0.79 | 2 |
+| 483 | Dragoșヤ | 0.78 | 2 |
+| 484 | Páj | 0.78 | 2 |
+| 485 | QR Flipzy | 0.78 | 1 |
+| 486 | SK\|GUSTON | 0.78 | 2 |
+| 487 | Vortex | 0.78 | 2 |
+| 488 | Linus | 0.78 | 2 |
+| 489 | RTS Blizzard | 0.78 | 2 |
+| 490 | bekakuni | 0.78 | 2 |
+| 491 | Lega | 0.78 | 2 |
+| 492 | Rune | 0.78 | 2 |
+| 493 | Exony | 0.78 | 2 |
+| 494 | Dan_BRO | 0.78 | 2 |
+| 495 | ventsi | 0.78 | 2 |
+| 496 | Agyzok | 0.77 | 2 |
+| 497 | Tada | 0.77 | 2 |
+| 498 | Vojta | 0.77 | 2 |
+| 499 | Pablo740 | 0.77 | 2 |
+| 500 | miisu | 0.77 | 2 |
+| 501 | Froster | 0.77 | 2 |
+| 502 | Jonah | 0.77 | 2 |
+| 503 | st0l3r | 0.77 | 2 |
+| 504 | Cristian_regele | 0.77 | 2 |
+| 505 | ZLX \| Iván2.0 | 0.77 | 2 |
+| 506 | Saygı | 0.77 | 2 |
+| 507 | treymi | 0.77 | 1 |
+| 508 | Tsuyoshi | 0.77 | 1 |
+| 509 | Baisher_Kto_ia? | 0.76 | 2 |
+| 510 | a95_stv | 0.76 | 1 |
+| 511 | VibeRush | 0.76 | 2 |
+| 512 | mythkal | 0.76 | 2 |
+| 513 | LusPikK | 0.75 | 2 |
+| 514 | Szczesiakk | 0.75 | 2 |
+| 515 | Miry | 0.75 | 2 |
+| 516 | Saha228com | 0.75 | 2 |
+| 517 | 🩸🩸🩸\|Amir | 0.75 | 2 |
+| 518 | MS\|switizzz | 0.74 | 2 |
+| 519 | gengario | 0.74 | 2 |
+| 520 | VRT \| Fiora2506 | 0.74 | 2 |
+| 521 | shinbannedmain | 0.74 | 2 |
+| 522 | ssirex🐙 | 0.74 | 2 |
+| 523 | Chahine | 0.74 | 2 |
+| 524 | Ten_Andrew | 0.73 | 2 |
+| 525 | Platinium_bs | 0.73 | 2 |
+| 526 | Yankee | 0.72 | 2 |
+| 527 | ? | 0.72 | 2 |
+| 528 | forzasenziente | 0.72 | 2 |
+| 529 | TimTammy | 0.72 | 2 |
+| 530 | FRX\|aggelosOG | 0.71 | 2 |
+| 531 | Ulusha878 | 0.71 | 1 |
+| 532 | HaZe | 0.71 | 2 |
+| 533 | Guille | 0.70 | 2 |
+| 534 | Aury | 0.70 | 2 |
+| 535 | Lennox_Utech | 0.69 | 2 |
+| 536 | Кто_то | 0.69 | 2 |
+| 537 | frostbs | 0.68 | 2 |
+| 538 | Soke | 0.68 | 2 |
+| 539 | SB\|Darkness | 0.67 | 2 |
+| 540 | Ai3ek1loveyouzzz | 0.67 | 2 |
+| 541 | keng | 0.67 | 1 |
+| 542 | FRX\|FANIS23 | 0.66 | 2 |
+| 543 | DARSH_BRAWL_xd | 0.65 | 2 |
+| 544 | Flo2305 | 0.64 | 2 |
+| 545 | misty | 0.64 | 2 |
+| 546 | Kimkim2000 | 0.61 | 2 |
