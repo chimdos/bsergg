@@ -319,7 +319,7 @@
 | 315 | Sayf_Elkhaldi | 0.90 | 3 |
 | 316 | sƙ/ªmìř | 0.90 | 4 |
 | 317 | liteee | 0.90 | 4 |
-| 318 | lolgutierrezmartinez@gmail.com | 0.90 | 2 |
+| 318 | lolgutierrezmartinez | 0.90 | 2 |
 | 319 | Noah | 0.90 | 2 |
 | 320 | MS\|switizzz | 0.90 | 2 |
 | 321 | Pronix | 0.90 | 4 |
