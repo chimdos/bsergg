@@ -1,0 +1,40 @@
+### Brawl Cup 2026
+
+| POSITION | PLAYER | RATING | SETS |
+| :---: | :---: | :---: | :---: |
+| 1 | BosS | 1.15 | 17 |
+| 2 | Batman | 1.12 | 14 |
+| 3 | Sitetampo | 1.12 | 14 |
+| 4 | Lukii | 1.11 | 17 |
+| 5 | Sergeant | 1.08 | 11 |
+| 6 | Symantec | 1.06 | 17 |
+| 7 | Moya | 1.05 | 10 |
+| 8 | Nob? | 1.05 | 19 |
+| 9 | Angelboy | 1.05 | 19 |
+| 10 | Milkreo | 1.03 | 10 |
+| 11 | Engine | 1.02 | 8 |
+| 12 | Tensai | 1.01 | 10 |
+| 13 | Walkthrough | 1.01 | 11 |
+| 14 | Diegogamer | 1.01 | 17 |
+| 15 | Sizuku | 1.00 | 14 |
+| 16 | bobby | 0.97 | 11 |
+| 17 | R B M | 0.97 | 17 |
+| 18 | Galaxy | 0.96 | 7 |
+| 19 | Todd | 0.96 | 6 |
+| 20 | Lxffy | 0.96 | 17 |
+| 21 | Wesley534 | 0.95 | 11 |
+| 22 | LeNain | 0.95 | 19 |
+| 23 | TOC | 0.95 | 8 |
+| 24 | Portox | 0.94 | 11 |
+| 25 | OU | 0.93 | 8 |
+| 26 | Mohtep | 0.92 | 7 |
+| 27 | CaueBR | 0.92 | 7 |
+| 28 | David | 0.91 | 7 |
+| 29 | Prozy | 0.90 | 11 |
+| 30 | Patchy | 0.90 | 11 |
+| 31 | Hiroshii | 0.90 | 11 |
+| 32 | Jxcr | 0.89 | 6 |
+| 33 | Nagi | 0.87 | 7 |
+| 34 | Jubileubr | 0.84 | 7 |
+| 35 | Anyus | 0.83 | 6 |
+| 36 | sans | 0.81 | 11 |
