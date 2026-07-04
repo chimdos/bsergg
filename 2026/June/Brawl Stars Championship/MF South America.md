@@ -6,7 +6,7 @@
 | 2 | Doritos | 1.07 |
 | 3 | IceCrow  | 1.05 |
 | 4 | Pekka | 1.05 |
-| 5 | BrabaoBs | 1.05 |
+| 5 | Brabao | 1.05 |
 | 6 | Kr | 1.03 |
 | 7 | Portox | 1.01 |
 | 8 | Satisfyer | 1.01 |

@@ -9,7 +9,7 @@
 | 5 | Pekka | 1.14 |
 | 6 | Edinho | 1.14 |
 | 7 | Juan Carlos | 1.13 |
-| 8 | BrabaoBs | 1.12 |
+| 8 | Brabao | 1.12 |
 | 9 | Sennin | 1.12 |
 | 10 | Rdz | 1.11 |
 | 11 | Doritos | 1.11 |
