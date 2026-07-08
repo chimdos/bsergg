@@ -140,7 +140,7 @@
 | 136 | Theluke | 0.78 | 2 |
 | 137 | OC \| Arthur🦎 | 0.77 | 2 |
 | 138 | L⁷.pedrinho | 0.77 | 2 |
-| 139 | saviojoseborgeslaurentino3@gmail.com | 0.77 | 2 |
+| 139 | saviojose | 0.77 | 2 |
 | 140 | pixel67 | 0.77 | 2 |
 | 141 | 08vider08 | 0.76 | 2 |
 | 142 | otaco_chan | 0.76 | 2 |
