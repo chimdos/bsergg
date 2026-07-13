@@ -1,43 +1,38 @@
-"""
-Static configuration and references data
-Incudes brawler archetypes, class weights and map-specific adjustments
-"""
-
-BRAWLER_ROSTER = {
-    "8-BIT": ["DPS"], "Alli": ["Assassin"], "Amber": ["Controller", "DPS"], "Angelo": ["Sniper"],
+BRAWLERS_DATABASE = {
+    "8-bit": ["DPS"], "Alli": ["Assassin"], "Amber": ["Controller", "DPS"], "Angelo": ["Sniper"],
     "Ash": ["Tank"], "Barley": ["Thrower"], "Bea": ["Sniper"],
     "Belle": ["Sniper"], "Berry": ["Support"], "Bibi": ["Tank"],
-    "Bo": ["Controller"], "Bonnie": ["Controller"], "Brock": ["Sniper"], "Bull": ["Tank"],
+    "Bo": ["Controller"], "Bolt": ["Tank"], "Bonnie": ["Controller"], "Brock": ["Sniper"], "Bull": ["Tank"],
     "Buster": ["Tank"], "Buzz": ["Assassin", "Tank"], "Byron": ["Sniper"],
     "Carl": ["Assassin"], "Charlie": ["Anti-Tank"], "Chester": ["DPS"],
     "Chuck": ["Tank"], "Clancy": ["Anti-Tank"], "Colette": ["Anti-Tank"],
     "Colt": ["DPS"], "Cordelius": ["Anti-Tank"], "Crow": ["Controller", "Anti-Tank"],
-    "Darryl": ["Assassin"], "Doug": ["Tank"], "Draco": ["Tank"],
+    "Damian": ["Tank"], "Darryl": ["Assassin"], "Doug": ["Tank"], "Draco": ["Tank"],
     "Dynamike": ["Thrower"], "Edgar": ["Assassin"], "El Primo": ["Tank"],
     "Emz": ["Anti-Tank"], "Eve": ["Controller"], "Fang": ["Assassin", "Tank"],
     "Finx": ["Controller", "Anti-Tank"], "Frank": ["Tank"], "Gale": ["Anti-Tank"],
-    "Gene": ["Controller"], "Gigi": ["Assassin"], "Glowbert": ["Support"],
+    "Gene": ["Controller"], "Gigi": ["Assassin"], "Glowy": ["Support"],
     "Gray": ["Support"], "Griff": ["Anti-Tank"], "Grom": ["Thrower"],
     "Gus": ["Sniper"], "Hank": ["Tank"], "Jacky": ["Tank"], "Jae-yong": ["Support"],
     "Janet": ["Controller"], "Jessie": ["Controller"], "Juju": ["Thrower"],
-    "Kaze": ["Assassin"], "Kenji": ["Tank"], "Kit": ["Support"],
-    "L&L": ["Thrower"], "Leon": ["Assassin"], "Lily": ["Assassin"],
+    "Kaze": ["Assassin"], "Kenji": ["Tank"], "Kit": ["Assassin"],
+    "L&L": ["Thrower"], "Leon": ["Assassin", "Controller"], "Lily": ["Assassin"],
     "Lola": ["DPS"], "Lou": ["Anti-Tank"], "Lumi": ["Controller", "Anti-Tank"],
     "Maisie": ["Anti-Tank"], "Mandy": ["Sniper"], "Max": ["Support"],
     "Meeple": ["Controller"], "Meg": ["DPS"], "Melodie": ["Assassin"],
-    "Mico": ["Assassin"], "Mina": ["Assassin"], "Moe": ["Assassin"],
+    "Mico": ["Assassin"], "Mina": ["Assassin"], "Moe": ["Anti-Tank"],
     "Mortis": ["Assassin"], "Mr. P": ["Controller"], "Najia": ["Controller"], "Nani": ["Sniper"],
     "Nita": ["Anti-Tank"], "Ollie": ["Tank"], "Otis": ["Anti-Tank"],
-    "Pam": ["Controller"], "Pearl": ["DPS"], "Pierce": ["Sniper"], "Piper": ["Sniper"], "Penny" : ["Controller"],
-    "Poco": ["Support"], "R-T": ["Sniper"], "Rico": ["DPS"], "Rosa": ["Tank"],
+    "Pam": ["Controller"], "Pearl": ["DPS"], "Pierce": ["Sniper"], "Piper": ["Sniper"], "Penny": ["Controller"],
+    "Poco": ["Support"], "R-t": ["Sniper"], "Rico": ["DPS"], "Rosa": ["Tank"],
     "Ruffs": ["Controller", "Anti-Tank"], "Sam": ["Tank"], "Sandy": ["Controller"],
     "Shade": ["Assassin"], "Shelly": ["Anti-Tank"], "Sirius": ["Thrower"], "Spike": ["DPS"],
-    "Sprout": ["Thrower"], "Squeak": ["Controller"], "Stu": ["Controller"],
+    "Sprout": ["Thrower"], "Squeak": ["Controller"], "Stu": ["Controller"], "Starr Nova": ["Assassin"],
     "Surge": ["Anti-Tank"], "Tara": ["Anti-Tank"], "Tick": ["Thrower"],
     "Trunk": ["Tank"], "Willow": ["Thrower"], "Ziggy": ["Thrower"]
 }
 
-CLASS_BASE_WEIGHTS = {
+CLASS_PERFORMANCE_WEIGHTS = {
     "Tank":       {"kills": 0.90, "dps": 1.25},
     "DPS":        {"kills": 1.00, "dps": 1.50},
     "Assassin":   {"kills": 1.30, "dps": 0.80},
@@ -49,27 +44,12 @@ CLASS_BASE_WEIGHTS = {
     "Hybrid":     {"kills": 1.15, "dps": 1.30},
 }
 
-CLASS_EXPECTED_OUTPUT = {
-    "Tank": 1.15, "DPS": 1.45, "Assassin": 1.10, "Sniper": 1.20, 
-    "Support": 0.85, "Controller": 1.05, "Thrower": 1.10, 
-    "Anti-Tank": 1.30, "Hybrid": 1.15
-}
+HEIST_BURNERS = ["Chuck", "Mico", "Berry", "Melodie", "Nita", "Kaze", "Sam"]
 
-MODE_EXPECTATION_MATRIX = {
-    "Knockout": {"Tank": 0.45, "Assassin": 0.55, "Sniper": 1.0, "Support": 0.70, "DPS": 0.85, "Anti-Tank": 0.80},
-    "Bounty":   {"Tank": 0.50, "Assassin": 0.65, "Sniper": 1.0, "Support": 0.75, "DPS": 0.85, "Anti-Tank": 0.80},
-    "Heist":    {"Tank": 1.30, "Assassin": 1.10, "Sniper": 0.85},
-    "Brawl Ball": {"Tank": 1.15, "Assassin": 1.05}
-}
-
-MODE_BASE_DIVISORS = {
-    "Heist": (340, 7.5), "Knockout": (130, 4.0), "Hot Zone": (280, 8.0),
-    "Bounty": (170, 4.0), "Gem Grab": (230, 6.5), "Brawl Ball": (240, 7.5)
-}
-
-MAP_MULTIPLIERS = {
-    "Super Beach": {"dps": 1.15, "kills": 1.30},
-    "Sunny Soccer": {"dps": 1.00, "kills": 1.00},
+MAP_ADJUSTMENT_MULTIPLIERS = {
+    "Super Beach":        {"dps": 1.15, "kills": 1.30},
+    "Beach Ball":         {"dps": 1.15, "kills": 1.30},
+    "Sunny Soccer":       {"dps": 1.00, "kills": 1.00},
     "Deathcap Trap":      {"dps": 1.10, "kills": 1.15},
     "Undermine":          {"dps": 1.15, "kills": 0.95},
     "Ring of Fire":       {"dps": 1.75, "kills": 1.10},
@@ -87,7 +67,6 @@ MAP_MULTIPLIERS = {
     "Out in the Open":    {"dps": 0.90, "kills": 1.10},
     "Open Zone":          {"dps": 1.55, "kills": 1.00},
     "Bridge Too Far":     {"dps": 0.90, "kills": 0.85},
-    "Last Stop":          {"dps": 1.15, "kills": 0.75},
     "Center Stage":       {"dps": 1.55, "kills": 0.85},
     "Canal Grande":       {"dps": 1.10, "kills": 1.20},
     "Safe Zone":          {"dps": 0.95, "kills": 1.55},
@@ -103,4 +82,30 @@ MAP_MULTIPLIERS = {
     "Double Swoosh":      {"dps": 1.20, "kills": 1.25},
 }
 
-HEIST_BURNING_BRAWLERS = ["Chuck", "Mico", "Berry", "Melodie", "Nita", "Kaze"]
+CLASS_DPS_OUTPUT = {
+    "Tank": 1.15,
+    "DPS": 1.35,
+    "Assassin": 1.10,
+    "Sniper": 1.20,
+    "Support": 0.85,
+    "Controller": 1.05,
+    "Thrower": 1.10,
+    "Anti-Tank": 1.25,
+    "Hybrid": 1.15,
+}
+
+EXPECTATION_MATRIX = {
+    "Knockout": {"Tank": 0.60, "Assassin": 0.80, "Sniper": 1.30, "Support": 0.90, "DPS": 1.10, "Anti-Tank": 1.00},
+    "Bounty":   {"Tank": 0.70, "Assassin": 0.85, "Sniper": 1.20, "Support": 0.90, "DPS": 1.15, "Anti-Tank": 1.05},
+    "Heist":    {"Tank": 1.20, "Assassin": 0.90, "Sniper": 0.85, "DPS": 1.25, "Thrower": 1.10, "Controller": 0.90},
+    "Brawl Ball": {"Tank": 1.25, "Assassin": 1.10, "Sniper": 0.80, "Support": 0.85, "Thrower": 0.90}
+}
+
+# --- Mathematical Configurations ---
+HEIST_SAFE_MAX_HP = 80000
+HEIST_OBJECTIVE_BENCHMARK_RATIO = 0.25
+HEIST_OBJECTIVE_CAP = 2.0
+
+ELASTIC_POWER_CURVE = 0.75
+KILL_ELASTIC_OFFSET = 2.0
+DAMAGE_ELASTIC_OFFSET = 150.0
