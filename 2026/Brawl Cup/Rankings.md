@@ -1,0 +1,40 @@
+### Brawl Cup 2026
+
+| POSITION | PLAYER | RATING | SETS |
+| :---: | :---: | :---: | :---: |
+| 1 | BosS | 1.17 | 17 |
+| 2 | Batman | 1.12 | 14 |
+| 3 | Sitetampo | 1.12 | 14 |
+| 4 | Lukii | 1.11 | 17 |
+| 5 | Tensai | 1.09 | 10 |
+| 6 | Sergeant | 1.09 | 11 |
+| 7 | Symantec | 1.08 | 17 |
+| 8 | Angelboy | 1.07 | 19 |
+| 9 | Moya | 1.06 | 10 |
+| 10 | Nob? | 1.06 | 19 |
+| 11 | Engine | 1.06 | 8 |
+| 12 | Sizuku | 1.03 | 14 |
+| 13 | Milkreo | 1.02 | 10 |
+| 14 | Walkthrough | 1.02 | 11 |
+| 15 | Diegogamer | 1.01 | 17 |
+| 16 | David | 1.00 | 7 |
+| 17 | Lxffy | 1.00 | 17 |
+| 18 | Portox | 0.98 | 11 |
+| 19 | bobby | 0.97 | 11 |
+| 20 | LeNain | 0.97 | 19 |
+| 21 | R B M | 0.97 | 17 |
+| 22 | Galaxy | 0.96 | 7 |
+| 23 | Mohtep | 0.95 | 7 |
+| 24 | TOC | 0.95 | 8 |
+| 25 | Wesley534 | 0.94 | 11 |
+| 26 | Prozy | 0.94 | 11 |
+| 27 | Jxcr | 0.94 | 6 |
+| 28 | CaueBR | 0.94 | 7 |
+| 29 | OU | 0.94 | 8 |
+| 30 | Todd | 0.93 | 6 |
+| 31 | Patchy | 0.90 | 11 |
+| 32 | Hiroshii | 0.90 | 11 |
+| 33 | Nagi | 0.88 | 7 |
+| 34 | Jubileubr | 0.88 | 7 |
+| 35 | sans | 0.86 | 11 |
+| 36 | Anyus | 0.79 | 6 |
