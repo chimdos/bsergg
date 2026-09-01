@@ -64,7 +64,7 @@ The engine has been entirely refactored to use modular, class-based architecture
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/bsergg.git
+    git clone https://github.com/chimdos/bsergg.git
     cd bsergg
     ```
 
