@@ -64,7 +64,7 @@ The engine has been entirely refactored to use modular, class-based architecture
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/bsergg.git
+    git clone https://github.com/chimdos/bsergg.git
     cd bsergg
     ```
 
@@ -122,7 +122,7 @@ for res in results:
 The BSERgg ecosystem is expanding beyond just the mathematical engine. Our current trajectory includes:
 
 * [x] **Core Engine Refactoring:** Pure mathematical functions, Clean Code architecture, and dependency injection for rating calculations.
-* [ ] **Global Team Rankings:** Expanding the algorithm to evaluate and rank professional teams based on aggregate roster performance.
+* [x] **[Global Team Rankings:](https://github.com/chimdos/bsergg-rankings)** Expanding the algorithm to evaluate and rank professional teams based on aggregate roster performance.
 * [ ] **Official Website Launch:** A public-facing web platform to view calculated ratings and match histories.
 * [ ] **Moneybrawl Scouting System:** An advanced analytical hub to help organizations scout undervalued talent using BSERgg's context-aware metrics.
 

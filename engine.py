@@ -92,7 +92,7 @@ class IRatingStrategy(ABC):
 
 
 class StandardStrategy(IRatingStrategy):
-    def evaluate(self, mechanical_score: float) -> float:
+    def evaluate(self, player: PlayerPerformance, mechanical_score: float) -> float:
         return mechanical_score
 
 
@@ -130,7 +130,7 @@ class BSERRatingEngine:
     def _inject_tactical_strategy(self) -> IRatingStrategy:
         if self._normalized_mode == "Heist":
             return HeistStrategy()
-        return StandardStrategy()
+        return y()
 
     def process_match_ratings(self) -> List[Dict[str, Any]]:
         try:
