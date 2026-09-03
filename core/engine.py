@@ -130,7 +130,7 @@ class BSERRatingEngine:
     def _inject_tactical_strategy(self) -> IRatingStrategy:
         if self._normalized_mode == "Heist":
             return HeistStrategy()
-        return y()
+        return StandardStrategy()
 
     def process_match_ratings(self) -> List[Dict[str, Any]]:
         try:
